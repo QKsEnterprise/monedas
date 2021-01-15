@@ -39,3 +39,4 @@ console.log('Price: $', Coins3, ' ', 'Quantity of coins:', coins3);
 console.log('Price: $', Coins4, ' ', 'Quantity of coins:', coins4);
 console.log('Price: $', Coins5, ' ', 'Quantity of coins:', coins5);
 console.log('Price: $', Coins6, ' ', 'Quantity of coins:', coins6);
+console.log('Price: $', Coins7, ' ', 'Quantity of coins:', coins7);
