@@ -57,12 +57,12 @@ let  PAy = CoInS6 + cOins6;
 console.log('')
 
 
-let  subtract = Credit - CoInS1;
-let  less = Credit - CoInS2;
-let  Less = Credit - CoInS3;
-let  LEss = Credit - CoInS4;
-let  LESs = Credit - CoInS5;
-let  lESS = Credit - CoInS6;
+let  subtract = Credit - COins1;
+let  less = Credit - COins2;
+let  Less = Credit - COins3;
+let  LEss = Credit - COins4;
+let  LESs = Credit - COins5;
+let  lESS = Credit - COins6;
 
 
 
